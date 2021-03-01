@@ -1,0 +1,25 @@
+{
+   "API_KEY":"BEISPIEL_API_KEY",
+   "userliste":[
+      {
+         "id":1,
+         "vorname":"Vorname",
+         "nachname":"Nachname",
+         "abteilung_id":"1",
+         "unternehmen_id":"1",
+         "bemerkung":"Bermerkung",
+         "typ":"user",
+         "email":"testmail@example.com"
+      },
+      {
+         "id":2,
+         "vorname":"NeuerName",
+         "nachname":"NeuerNachname",
+         "abteilung_id":"1",
+         "unternehmen_id":"1",
+         "bemerkung":"Bermerkung",
+         "typ":"user",
+         "email":"testmail2@example.com"
+      }
+   ]
+}
